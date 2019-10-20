@@ -1,0 +1,10 @@
+Rules of SAS Programming:
+
+1.) dataset name should start with an alphabet or an "_"(underscore)
+2.) dataset name cannot start with a digit or any other special character
+	other than "_".
+3.) the dataset name cannot exceed 32bytes/32 characters
+4.) length of library name cannot exceed 8bytes/8charaters
+5.) SAS is not case-sensitive.
+6.) variable name cannot exceed 32 bytes.
+7.) To write a dataset name anywhere in the code, use convention like "libraryname.datasetname"

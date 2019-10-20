@@ -1,0 +1,21 @@
+1.) SAS Steps
+2.) SAS datatypes
+3.) SAS Libraries
+4.) Rows and Columns
+
+
+SAS Steps:
+1.) Data step
+2.) Proc step
+
+SAS Datatypes:
+1.) Numbers
+2.) Characters
+
+SAS Libraries:
+1.) Permanent
+2.) Work - Temporary
+
+Rows and Columns:
+1.) Rows - Observations
+2.) Columns - Variables
